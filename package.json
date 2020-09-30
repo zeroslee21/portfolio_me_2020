@@ -1,16 +1,12 @@
 {
-  "name": "portfolio_app_2020",
+  "name": "portfolio_me_2020",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "jest-dom": "^4.0.0",
+    "gh-pages": "^3.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1",
-    "react-testing-library": "^8.0.1"
+    "react-scripts": "^3.4.3"
   },
   "scripts": {
     "start": "npm run watch:css && react-scripts start",
@@ -37,6 +33,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://zeroslee21.github.io/portfolio_me_2020",
   "devDependencies": {
     "autoprefixer": "^9.7.5",
     "postcss-cli": "^7.1.2",
