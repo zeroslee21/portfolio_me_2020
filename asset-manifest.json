@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio_me_2020/static/css/main.7b779e63.chunk.css",
-    "main.js": "/portfolio_me_2020/static/js/main.d7ade8c7.chunk.js",
-    "main.js.map": "/portfolio_me_2020/static/js/main.d7ade8c7.chunk.js.map",
+    "main.js": "/portfolio_me_2020/static/js/main.f600df6f.chunk.js",
+    "main.js.map": "/portfolio_me_2020/static/js/main.f600df6f.chunk.js.map",
     "runtime-main.js": "/portfolio_me_2020/static/js/runtime-main.e6b8239c.js",
     "runtime-main.js.map": "/portfolio_me_2020/static/js/runtime-main.e6b8239c.js.map",
-    "static/js/2.2e5ef472.chunk.js": "/portfolio_me_2020/static/js/2.2e5ef472.chunk.js",
-    "static/js/2.2e5ef472.chunk.js.map": "/portfolio_me_2020/static/js/2.2e5ef472.chunk.js.map",
+    "static/css/2.217d2cfe.chunk.css": "/portfolio_me_2020/static/css/2.217d2cfe.chunk.css",
+    "static/js/2.73d42c80.chunk.js": "/portfolio_me_2020/static/js/2.73d42c80.chunk.js",
+    "static/js/2.73d42c80.chunk.js.map": "/portfolio_me_2020/static/js/2.73d42c80.chunk.js.map",
     "index.html": "/portfolio_me_2020/index.html",
-    "precache-manifest.c1fbcbf41600d6aa93bc0a6e33a3e461.js": "/portfolio_me_2020/precache-manifest.c1fbcbf41600d6aa93bc0a6e33a3e461.js",
+    "precache-manifest.4e267f2dbbbf0eaebdac5d11998660a7.js": "/portfolio_me_2020/precache-manifest.4e267f2dbbbf0eaebdac5d11998660a7.js",
     "service-worker.js": "/portfolio_me_2020/service-worker.js",
-    "static/css/main.7b779e63.chunk.css.map": "/portfolio_me_2020/static/css/main.7b779e63.chunk.css.map",
-    "static/js/2.2e5ef472.chunk.js.LICENSE.txt": "/portfolio_me_2020/static/js/2.2e5ef472.chunk.js.LICENSE.txt"
+    "static/css/2.217d2cfe.chunk.css.map": "/portfolio_me_2020/static/css/2.217d2cfe.chunk.css.map",
+    "static/js/2.73d42c80.chunk.js.LICENSE.txt": "/portfolio_me_2020/static/js/2.73d42c80.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/portfolio_me_2020/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/team-2-800x800.jpg": "/portfolio_me_2020/static/media/team-2-800x800.dcfcf3b7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e6b8239c.js",
-    "static/js/2.2e5ef472.chunk.js",
-    "static/css/main.7b779e63.chunk.css",
-    "static/js/main.d7ade8c7.chunk.js"
+    "static/css/2.217d2cfe.chunk.css",
+    "static/js/2.73d42c80.chunk.js",
+    "static/js/main.f600df6f.chunk.js"
   ]
 }
