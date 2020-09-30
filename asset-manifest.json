@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio_app_2020/static/css/main.7b779e63.chunk.css",
-    "main.js": "/portfolio_app_2020/static/js/main.69637a32.chunk.js",
-    "main.js.map": "/portfolio_app_2020/static/js/main.69637a32.chunk.js.map",
-    "runtime-main.js": "/portfolio_app_2020/static/js/runtime-main.806b182b.js",
-    "runtime-main.js.map": "/portfolio_app_2020/static/js/runtime-main.806b182b.js.map",
-    "static/js/2.1efccf98.chunk.js": "/portfolio_app_2020/static/js/2.1efccf98.chunk.js",
-    "static/js/2.1efccf98.chunk.js.map": "/portfolio_app_2020/static/js/2.1efccf98.chunk.js.map",
-    "index.html": "/portfolio_app_2020/index.html",
-    "precache-manifest.c6115bb7c85a39eef38037864be22a75.js": "/portfolio_app_2020/precache-manifest.c6115bb7c85a39eef38037864be22a75.js",
-    "service-worker.js": "/portfolio_app_2020/service-worker.js",
-    "static/css/main.7b779e63.chunk.css.map": "/portfolio_app_2020/static/css/main.7b779e63.chunk.css.map",
-    "static/js/2.1efccf98.chunk.js.LICENSE.txt": "/portfolio_app_2020/static/js/2.1efccf98.chunk.js.LICENSE.txt"
+    "main.css": "/portfolio_me_2020/static/css/main.7b779e63.chunk.css",
+    "main.js": "/portfolio_me_2020/static/js/main.ad853830.chunk.js",
+    "main.js.map": "/portfolio_me_2020/static/js/main.ad853830.chunk.js.map",
+    "runtime-main.js": "/portfolio_me_2020/static/js/runtime-main.b428d145.js",
+    "runtime-main.js.map": "/portfolio_me_2020/static/js/runtime-main.b428d145.js.map",
+    "static/js/2.1efccf98.chunk.js": "/portfolio_me_2020/static/js/2.1efccf98.chunk.js",
+    "static/js/2.1efccf98.chunk.js.map": "/portfolio_me_2020/static/js/2.1efccf98.chunk.js.map",
+    "index.html": "/portfolio_me_2020/index.html",
+    "precache-manifest.5e7b056de726b1b8dcfd6395ad354cf6.js": "/portfolio_me_2020/precache-manifest.5e7b056de726b1b8dcfd6395ad354cf6.js",
+    "service-worker.js": "/portfolio_me_2020/service-worker.js",
+    "static/css/main.7b779e63.chunk.css.map": "/portfolio_me_2020/static/css/main.7b779e63.chunk.css.map",
+    "static/js/2.1efccf98.chunk.js.LICENSE.txt": "/portfolio_me_2020/static/js/2.1efccf98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.806b182b.js",
+    "static/js/runtime-main.b428d145.js",
     "static/js/2.1efccf98.chunk.js",
     "static/css/main.7b779e63.chunk.css",
-    "static/js/main.69637a32.chunk.js"
+    "static/js/main.ad853830.chunk.js"
   ]
 }
