@@ -1,13 +1,23 @@
 {
-  "main.css": "/portfolio_me_2020/static/css/main.ef75e75d.chunk.css",
-  "main.js": "/portfolio_me_2020/static/js/main.98021328.chunk.js",
-  "main.js.map": "/portfolio_me_2020/static/js/main.98021328.chunk.js.map",
-  "runtime~main.js": "/portfolio_me_2020/static/js/runtime~main.d90b75b8.js",
-  "runtime~main.js.map": "/portfolio_me_2020/static/js/runtime~main.d90b75b8.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/portfolio_me_2020/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/portfolio_me_2020/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/portfolio_me_2020/index.html",
-  "precache-manifest.6d711e48e6626ff6eab2084325a7a3fb.js": "/portfolio_me_2020/precache-manifest.6d711e48e6626ff6eab2084325a7a3fb.js",
-  "service-worker.js": "/portfolio_me_2020/service-worker.js",
-  "static/css/main.ef75e75d.chunk.css.map": "/portfolio_me_2020/static/css/main.ef75e75d.chunk.css.map"
+  "files": {
+    "main.js": "/portfolio_app_2020/static/js/main.778fafcf.chunk.js",
+    "main.js.map": "/portfolio_app_2020/static/js/main.778fafcf.chunk.js.map",
+    "runtime-main.js": "/portfolio_app_2020/static/js/runtime-main.a43ba102.js",
+    "runtime-main.js.map": "/portfolio_app_2020/static/js/runtime-main.a43ba102.js.map",
+    "static/css/2.01f43b35.chunk.css": "/portfolio_app_2020/static/css/2.01f43b35.chunk.css",
+    "static/js/2.bab4d96b.chunk.js": "/portfolio_app_2020/static/js/2.bab4d96b.chunk.js",
+    "static/js/2.bab4d96b.chunk.js.map": "/portfolio_app_2020/static/js/2.bab4d96b.chunk.js.map",
+    "index.html": "/portfolio_app_2020/index.html",
+    "precache-manifest.54ad9bed02ebeddc20f3c5ac8a2d3bb7.js": "/portfolio_app_2020/precache-manifest.54ad9bed02ebeddc20f3c5ac8a2d3bb7.js",
+    "service-worker.js": "/portfolio_app_2020/service-worker.js",
+    "static/css/2.01f43b35.chunk.css.map": "/portfolio_app_2020/static/css/2.01f43b35.chunk.css.map",
+    "static/media/all.min.css": "/portfolio_app_2020/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/team-2-800x800.jpg": "/portfolio_app_2020/static/media/team-2-800x800.dcfcf3b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a43ba102.js",
+    "static/css/2.01f43b35.chunk.css",
+    "static/js/2.bab4d96b.chunk.js",
+    "static/js/main.778fafcf.chunk.js"
+  ]
 }
